@@ -18,24 +18,7 @@
             "files": [
                 "README.md",
                 "LICENSE",
-                "amelia/*",
-                "cerulean/*",
-                "cosmo/*",
-                "cyborg/*",
-                "darkly/*",
-                "flatly/*",
-                "fonts/*",
-                "journal/*",
-                "lumen/*",
-                "paper/*",
-                "readable/*",
-                "sandstone/*",
-                "simplex/*",
-                "slate/*",
-                "spacelab/*",
-                "superhero/*",
-                "united/*",
-                "yeti/*"
+                "dist/**/*"
             ]
         }
     }
